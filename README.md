@@ -1,2 +1,2 @@
 # Data-Engineering
-A repo that includes some codes of data engineer process
+A repo that includes some codes of data engineering process
